@@ -1,0 +1,33 @@
+
+# IDE folders
+.idea/
+*.iml
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Node (frontend)
+node_modules/
+dist/
+.env
+.angular/
+
+# Java (backend - Spring Boot)
+*.class
+*.jar
+*.war
+*.log
+*.tmp
+*.bak
+*.swp
+target/
+build/
+out/
+
+# OS-specific files
+*.sublime-workspace
+*.sublime-project
+
+# Git
+.git/
